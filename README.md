@@ -1,5 +1,5 @@
 Background Color Changer App
-This is a simple web application that dynamically changes the background color of the page with a button click. Built with JavaScript, React, Tailwind CSS it offers users an interactive experience to explore different color schemes.
+This is a simple web application that dynamically changes the background color of the page with a button click. Built with JavaScript, React, Tailwind CSS it offers users an interactive experience to explore different color schemes. I made this project while learning the useState hook in React because it relies on useState.
 
 Features:
 Change background color on button click.
